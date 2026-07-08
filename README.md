@@ -1,4 +1,4 @@
-# sweep\
+# sweep
 a sweeping decision\
 \
 I am asking for HELP, and I would providee a CRAZY REWARD to EVERYONE that can HELP!!!\
@@ -61,6 +61,6 @@ I am working on this, for everyone.  This project will be to help the community 
 \
 \
 SENDING LOVE!!\
-Hope you are having a Blessed Day!!\
+Hope you are having a Blessed Day!!
 
 
