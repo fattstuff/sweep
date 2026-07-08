@@ -12,7 +12,7 @@ $15   per seat\
 40,000  seats in toatal will exist\
 \
 5 PHASEs  of 8,000  price gets MORE EXPENSIVE\
-\
+
 +   Phase #1:  8,000     Discount\
 +   Phase #2:  8,000     $15\
 +   Phase #3:  8,000     EXPENSIVE\
