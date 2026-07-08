@@ -13,11 +13,11 @@ $15   per seat\
 \
 5 PHASEs  of 8,000  price gets MORE EXPENSIVE
 
-+   Phase #1:  8,000     Discount\
-+   Phase #2:  8,000     $15\
-+   Phase #3:  8,000     EXPENSIVE\
-+   Phase #4:  8,000     MORE EXPENSIVE\
-+   Phase #5:  8,000     MOST EXPENSIVE\
++   Phase #1:  8,000     Discount
++   Phase #2:  8,000     $15
++   Phase #3:  8,000     EXPENSIVE
++   Phase #4:  8,000     MORE EXPENSIVE
++   Phase #5:  8,000     MOST EXPENSIVE
 \
 Total   :  40,000\
 \
