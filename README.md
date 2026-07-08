@@ -11,7 +11,7 @@ together everyone achiives more   -- might YOU ENJOY earning more to help achive
 $15   per seat\
 40,000  seats in toatal will exist\
 \
-5 PHASEs  of 8,000  price gets MORE EXPENSIVE\
+5 PHASEs  of 8,000  price gets MORE EXPENSIVE
 
 +   Phase #1:  8,000     Discount\
 +   Phase #2:  8,000     $15\
