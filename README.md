@@ -18,8 +18,10 @@ $15   per seat\
 +   Phase #3:  8,000     EXPENSIVE
 +   Phase #4:  8,000     MORE EXPENSIVE
 +   Phase #5:  8,000     MOST EXPENSIVE
+
 \
-Total   :  40,000\
+\
+        **Total   :  40,000**\
 \
 \
 \
